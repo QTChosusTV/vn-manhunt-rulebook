@@ -1,5 +1,4 @@
-# vn-manhunt-rulebook
-Vietnam Minecraft Manhunt Rulebook, seriously considered an official rulebook by BQTTeam.
+# Vietnam Minecraft Manhunt Rulebook, seriously considered an official rulebook by BQTTeam.
 
 1. No Strength I, Strength II
 2. No Portal Trapping, both End and Nether.
